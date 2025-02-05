@@ -1,5 +1,6 @@
 3
 blah
 change in feature b
+change in feature/a
 uninteresting change in branch
 uninteresting
